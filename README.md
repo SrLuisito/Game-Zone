@@ -13,3 +13,14 @@ integrantes: Luis : programador de 10 puntos
             Gabriel: diseñador grafico apto para graficar cualquier cosa
             Renzo : buen amigo
             Moises : organizador
+
+
+
+-----------------------------------------------------------------------------------
+
+sitios de referencia:
+https://store.steampowered.com
+https://compragamer.com
+www.laanonimaonline.com
+https://tiendapcshop.com
+store.epicgames.com
