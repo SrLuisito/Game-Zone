@@ -1,0 +1,22 @@
+{
+  "name": "gamezone",
+  "version": "1.0.0",
+  "description": "e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrLuisito/game-zone.git"
+  },
+  "author": "Luis Agüero,Gabriel Benitez,Maximo Moises",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrLuisito/game-zone/issues"
+  },
+  "homepage": "https://github.com/SrLuisito/game-zone#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
